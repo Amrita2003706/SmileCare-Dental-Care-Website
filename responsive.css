@@ -1,0 +1,30 @@
+@media (max-width:200px){
+    .header,
+    .form-container-appoinment,
+    .about_us,
+    .timeline_section,
+    .services,
+    .our_doctors,
+    footer,
+    .copyright-ft{
+        width: 100%;
+        height: auto;
+    }
+}
+@media(max-width:1420px){
+    .navbar{
+        width: 100%;
+        padding: 5px 23px;
+    }
+    .nav-item{
+        margin: 0px 4px;
+    }
+}
+@media(max-width:1200px){
+    .navbar-media{
+        display: none;
+    }
+    .navbar-nav{
+        width: 100%;
+    }
+}
