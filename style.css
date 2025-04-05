@@ -99,7 +99,7 @@
     height: 100vh;
     display: flex;
     align-items: center;
-    background-image: linear-gradient(90deg , #ffffffd8 25%, #1d030900 63%), url(https://assets-global.website-files.com/5ffd1a678ad5ea1856c8686a/62b4f20c8fac360694a886cb_AI%20future%20of%20dentistry.png);
+    background-image: linear-gradient(90deg , #ffffffd8 25%, #1d030900 63%), url(banner_img.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -451,23 +451,23 @@
     background-size: cover;
 }
 .img1{
-    background-image: url(https://leman-clinic.ch/wp-content/uploads/2018/11/02.jpg);
+    background-image: url(doc1.jpg);
 }
 
 .img2{
-    background-image: url(https://st.depositphotos.com/2702761/3304/i/950/depositphotos_33044395-stock-photo-doctor-smiling.jpg);
+    background-image: url(doc2.jpg);
 }
 
 .img3{
-    background-image: url(https://cdn.pixabay.com/photo/2023/12/21/06/23/doctor-8461303_1280.jpg);
+    background-image: url(doc3.jpg);
 }
 
 .img4{
-    background-image: url(https://as1.ftcdn.net/v2/jpg/02/60/04/08/1000_F_260040863_fYxB1SnrzgJ9AOkcT0hoe7IEFtsPiHAD.jpg);
+    background-image: url(doc4.jpg);
 }
 
 .img5{
-    background-image: url(https://static.vecteezy.com/system/resources/previews/028/287/555/non_2x/an-indian-young-female-doctor-isolated-on-green-ai-generated-photo.jpg);
+    background-image: url(doc5.jpg);
 }
 .socials_doc{
     position: absolute;
