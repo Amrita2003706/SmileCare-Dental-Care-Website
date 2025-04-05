@@ -2,5 +2,7 @@
 
  ### Click to watch the demo video:
 
-[▶️ Watch Demo](SmileCare-Dental-care-Website.mp4)
+## 🎥 Demo Video
+
+[▶️ Click here to watch the demo](SmileCare-Dental-care-Website.mp4)
 
