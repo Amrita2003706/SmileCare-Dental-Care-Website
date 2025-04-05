@@ -1,3 +1,6 @@
 "# SmileCare-Dental-Care-Website" 
- 
-![video](C:\Users\Amrita Vishwakarma\Desktop\healthcare\SmileCare-Dental-care-Website.mp4)
+
+ ### Click to watch the demo video:
+
+[▶️ Watch Demo](SmileCare-Dental-care-Website.mp4)
+
