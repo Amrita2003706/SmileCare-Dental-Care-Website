@@ -5,8 +5,8 @@ Welcome to **SmileCare**, a modern, responsive dental care website built with HT
 ---
 
 ## 🚀 Live Demo
-
-[![SmileCare Demo](![image](https://github.com/user-attachments/assets/34c90863-008a-425f-a629-1ea67a663dde)](https://youtu.be/xs5dFruSNis)
+Click on the below Image to watch the Project preview(●'◡'●)
+![image](https://github.com/user-attachments/assets/34c90863-008a-425f-a629-1ea67a663dde)](https://youtu.be/xs5dFruSNis)
 
 > 🎥 Click the thumbnail above to watch a video demo on YouTube.
 
